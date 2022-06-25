@@ -1,5 +1,5 @@
 # girlfriend
-情人节送码农们的礼物，一个命令就能安装一个女朋友。
+Gifts for code farmers on Valentine's Day, one command can install henna
 
 ```
 npm install girlfriend
@@ -12,6 +12,6 @@ var mygirlfriend=require('girlfriend');
 mygirlfriend.kissMe();
 ```
 
-不谢！
+No, thank you!
 
-codetyphon 荣誉出品
+codetyphon  Produksi kehormatan
